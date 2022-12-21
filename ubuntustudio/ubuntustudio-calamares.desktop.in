@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-_Name=PlasmaLinux 1.0のインストール
+_Name=PlasmaLinuxのインストール
 _GenericName=PlasmaLinuxのインストール
 Exec=bash -c "export BROWSER='sudo -H -u ubuntu-studio firefox'; sudo -E calamares"
 _Comment=PlasmaLinuxインストーラー
